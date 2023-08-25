@@ -28,7 +28,7 @@ class _BottomNavBarScreenState extends State<BottomNavBarScreen> {
             Container(height: 150.0,
               decoration: BoxDecoration(
                   image: DecorationImage(
-                    image: AssetImage('images/image(2).jpg'),
+                    image: AssetImage('images/image3.jpg'),
                     fit: BoxFit.cover,
                   )
               ),
